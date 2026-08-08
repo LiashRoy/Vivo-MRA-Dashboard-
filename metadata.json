@@ -1,0 +1,6 @@
+{
+  "name": "Vivo Marketing & Retail Decision-Making System",
+  "description": "Real Public Data Edition decision system for Vivo India featuring market share analytics, channel performance, diagnostic drill-downs, and source provenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
